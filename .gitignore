@@ -51,4 +51,4 @@ Thumbs.db
 .vscode
 
 #configuration file added into gitignore
-/m360helper-v3/src/Configuration.php
+#/m360helper-v3/src/Configuration.php
